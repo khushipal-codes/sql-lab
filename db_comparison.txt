@@ -1,0 +1,7 @@
+Database   | Licence                                     | Needs a server (yes or no) | One real use
+MySQL      | Free open-source licence, GPL for Community | yes                        | Powers websites and online stores worldwide
+PostgreSQL | Free open-source licence, very permissive   | yes                        | Stores data for large web applications
+Oracle     | Paid commercial licence, free edition limited | yes                      | Runs banking and large company systems
+SQLite     | Public domain, free for any use             | no                         | Stores data inside phone apps
+
+Chosen for the bus pass system: MySQL
